@@ -1,0 +1,28 @@
+3
+Nome: Nome1 Sobrenome1
+CPF: 00000000000
+Data de nascimento:
+Dia: 25
+Mes: 12
+Ano: 1937
+Sexo: M
+Bairro: Centro
+COVID-19: S
+Nome: Nome2 Sobrenome2
+CPF: 11111111111
+Data de nascimento:
+Dia: 21
+Mes: 5
+Ano: 1980
+Sexo: F
+Bairro: Prado
+COVID-19: S
+Nome: Nome3 Sobrenome3
+CPF: 12345678910
+Data de nascimento:
+Dia: 13
+Mes: 1
+Ano: 1998
+Sexo: M
+Bairro: Centro
+COVID-19: N
